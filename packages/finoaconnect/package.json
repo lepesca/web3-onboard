@@ -40,6 +40,8 @@
     "url": "https://github.com/blocknative/web3-onboard.git",
     "directory": "packages/finoaconnect"
   },
+  "homepage": "https://onboard.blocknative.com",
+  "bugs": "https://github.com/blocknative/web3-onboard/issues",
   "module": "dist/index.js",
   "browser": "dist/index.js",
   "main": "dist/index.js",

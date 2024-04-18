@@ -1,10 +1,10 @@
 # @web3-onboard/finoaconnect
 
-## Wallet module for connecting Finoa Wallet SDK to web3-onboard
+## Wallet module for connecting FinoaConnect SDK to web3-onboard
 
 #### Install
 
-`npm i @web3-onboard/finoaconnect`
+`npm i @web3-onboard/core @web3-onboard/finoaconnect`
 
 ## Usage
 
